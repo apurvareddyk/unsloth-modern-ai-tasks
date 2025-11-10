@@ -30,10 +30,10 @@ Additional open-weight models referenced for exploration include:
 Click below to open the Google Colab notebooks for each assignment part:
 
 * **A: Full Fine-Tuning (SmolLM2-135M)**  
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lSrjHD4ETKGEdDFM3Kx55hph1oUq-mTf?usp=sharing)
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O9drCJgEqdqQPElHi3jfwHVB58ppNoC8?usp=sharing)
 
 * **B: LoRA Parameter-Efficient Fine-Tuning (SmolLM2-135M)**  
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dwbOaaTijWD4dFQQWTNpfcoHTAZRqAtg?usp=sharing)
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHYbRvcglCDNzdTfoNpOJzaM0dZyauw3?usp=sharing)
 
 * **C: Reinforcement Learning with Preference Data (DPO/RLHF)**  
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCmozNN8ar6ipVFY8QT-QiFIyMTz_QKZ?usp=sharing)
