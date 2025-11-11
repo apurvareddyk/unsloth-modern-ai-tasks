@@ -36,10 +36,10 @@ Click below to open the Google Colab notebooks for each assignment part:
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHYbRvcglCDNzdTfoNpOJzaM0dZyauw3?usp=sharing)
 
 * **C: Reinforcement Learning with Preference Data (DPO/RLHF)**  
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCmozNN8ar6ipVFY8QT-QiFIyMTz_QKZ?usp=sharing)
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1du0T0Ekm5KPd8keHPPSAXbWW_Zyn-GeM?usp=sharing)
 
 * **D: GRPO-Based Reasoning Reinforcement Learning**  
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13l6804kN7Gti8oOUD1lL_IkYiAJW8w0E?usp=sharing)
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SgGtJrViD-fPXnYiZsAlld48egP5T51a?usp=sharing)
 
 * **E: Continued Pretraining (Language Adaptation)**  
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/131U-JK0XNNCh1l6wtIJj6sTJM-kM72Um?usp=sharing)
