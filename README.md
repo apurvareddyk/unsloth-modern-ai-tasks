@@ -42,7 +42,7 @@ Click below to open the Google Colab notebooks for each assignment part:
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SgGtJrViD-fPXnYiZsAlld48egP5T51a?usp=sharing)
 
 * **E: Continued Pretraining (Language Adaptation)**  
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/131U-JK0XNNCh1l6wtIJj6sTJM-kM72Um?usp=sharing)
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dwbOaaTijWD4dFQQWTNpfcoHTAZRqAtg?usp=sharing)
 
 ---
 
